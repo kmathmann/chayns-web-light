@@ -47,6 +47,7 @@
     "custom-event-polyfill": "^0.3.0",
     "es6-promise": "^4.1.0",
     "html-to-element": "^1.0.0",
+    "socket.io-client": "^1.7.3",
     "stylenames": "^1.1.5",
     "whatwg-fetch": "^2.0.3"
   }
