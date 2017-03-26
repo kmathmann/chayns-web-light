@@ -27,6 +27,9 @@ function initConnection() {
         init(locationId, tappId)
     });
 
+    socket.on('reload', () => {
+        location.reload(true);
+    })
 }
 
 function init(locationId, tappId) {
